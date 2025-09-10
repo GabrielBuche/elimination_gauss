@@ -1,7 +1,7 @@
 
 import sys
 from PyQt5.QtWidgets import QApplication
-from interface import GaussEliminationGUI
+from src.interface import GaussEliminationGUI
 
 def main():
   app = QApplication(sys.argv)
